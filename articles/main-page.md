@@ -35,6 +35,10 @@ Hello, world.
 
 [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
 
+## Online books
+
+[Exploring JS](http://exploringjs.com/)
+
 ## Accessibility
 
 [Accessibility](a11y)
