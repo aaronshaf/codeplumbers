@@ -24,7 +24,7 @@ Hello, world.
 
 ## Classics
 
-[The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html) -
+[The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html) —
 [Be Predictable, Not Correct](https://www.youtube.com/watch?v=h3KksH8gfcQ)
 
 ## Screencasts
