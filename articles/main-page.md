@@ -18,6 +18,10 @@ Hello, world.
 
 [UX](ux)
 
+## Classics
+
+[The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html)
+
 ## Accessibility
 
 [Accessibility](a11y)
