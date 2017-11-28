@@ -2,6 +2,10 @@
 
 Hello, world.
 
+## Languages
+
+[Learn X in Y minutes](https://learnxinyminutes.com/)
+
 ## Testing
 
 [Puppeteer](puppeteer)
