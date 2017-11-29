@@ -24,29 +24,13 @@ Hello, world.
 
 ## Classics
 
-[The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html) —
+[The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html)
+(article) —
 [Be Predictable, Not Correct](https://www.youtube.com/watch?v=h3KksH8gfcQ)
-
-## Screencasts
-
-[scrimba.com](https://scrimba.com/)
-
-## Podcasts
-
-[Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
-
-## Online books
-
-[Exploring JS](http://exploringjs.com/)
-
-## Utilities
-
-[Transform](https://transform.now.sh/)
-
-## Reference
-
-[Reference sites][reference-sites]
+(YouTube)
 
 ## Other
 
-[Accessibility](a11y) — [Identity and access management](iam)
+[Screencasts](screencasts) — [Online books](online-books) — [Reference
+sites][reference-sites] — [Accessibility](a11y) —
+[Identity and access management](iam)
