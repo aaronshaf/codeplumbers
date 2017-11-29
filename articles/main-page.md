@@ -39,10 +39,6 @@ Hello, world.
 
 [Exploring JS](http://exploringjs.com/)
 
-## Accessibility
-
-[Accessibility](a11y)
-
 ## Utilities
 
 [Transform](https://transform.now.sh/)
@@ -50,3 +46,7 @@ Hello, world.
 ## Reference
 
 [Reference sites][reference-sites]
+
+## Other
+
+[Accessibility](a11y) — [Identity and access management](iam)
