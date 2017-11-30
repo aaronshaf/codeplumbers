@@ -29,6 +29,10 @@ Hello, world.
 [Be Predictable, Not Correct](https://www.youtube.com/watch?v=h3KksH8gfcQ)
 (YouTube)
 
+## Follow to learn
+
+[@rauschma](https://twitter.com/rauschma)
+
 ## Other
 
 [Screencasts](screencasts) — [Online books](online-books) — [Reference
