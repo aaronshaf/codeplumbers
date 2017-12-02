@@ -23,10 +23,6 @@ Hello, world.
 
 [Search](cli-search)
 
-## User experience
-
-[UX](ux)
-
 ## Follow to learn
 
 [@addyosmani](https://twitter.com/addyosmani) —
@@ -46,5 +42,5 @@ Hello, world.
 ## Other
 
 [Classics](classics) — [Podcasts](podcasts) — [Online books](online-books) —
-[Reference sites](reference-sites) — [Accessibility](a11y) —
+[Reference sites](reference-sites) — [UX](ux) — [Accessibility](a11y) —
 [Identity and access management](iam)
