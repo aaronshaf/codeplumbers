@@ -45,6 +45,6 @@ Hello, world.
 
 ## Other
 
-[Classics](classics) — [Online books](online-books) — [Reference
-sites][reference-sites] — [Accessibility](a11y) —
+[Classics](classics) — [Online books](online-books) —
+[Reference sites](reference-sites) — [Accessibility](a11y) —
 [Identity and access management](iam)
