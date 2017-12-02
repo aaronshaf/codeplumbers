@@ -10,6 +10,11 @@ Hello, world.
 
 [try.github.io](https://try.github.io/)
 
+## Playgrounds
+
+[Codepen](https://codepen.io/) — [JSBin](https://jsbin.com/) —
+[Scrimba](https://scrimba.com/)
+
 ## Testing
 
 [Puppeteer](puppeteer)
@@ -40,6 +45,6 @@ Hello, world.
 
 ## Other
 
-[Classics](classics) — [Screencasts](screencasts) — [Online books](online-books)
-— [Reference sites][reference-sites] — [Accessibility](a11y) —
+[Classics](classics) — [Online books](online-books) — [Reference
+sites][reference-sites] — [Accessibility](a11y) —
 [Identity and access management](iam)
