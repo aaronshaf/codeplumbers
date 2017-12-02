@@ -8,6 +8,7 @@
 * [Hanselminutes](https://www.hanselminutes.com/)
 * [Indie Hackers](https://www.indiehackers.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
+* [Magic Read Along](http://www.magicreadalong.com/)
 * [Modern Web](https://www.moderndotweb.com/modern-web-podcast)
 * [Soft Skills Engineering](https://softskills.audio/)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
