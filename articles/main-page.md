@@ -36,7 +36,7 @@ Hello, world.
 [@geddski](https://twitter.com/geddski) —
 [@jaketrent](https://twitter.com/jaketrent) —
 [@jlongster](https://twitter.com/jlongster) —
-[@paul_irish](https://twitter.com/paul_irish)
+[@paul_irish](https://twitter.com/paul_irish) —
 [@rauschma](https://twitter.com/rauschma) —
 [@ryanflorence](https://twitter.com/ryanflorence) —
 [@tjholowaychuk](https://twitter.com/tjholowaychuk) —
