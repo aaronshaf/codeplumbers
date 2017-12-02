@@ -8,7 +8,7 @@ Hello, world.
 
 ## Source control
 
-[try.github.io](https://try.github.io/)
+[Learn Git](https://try.github.io/) (GitHub)
 
 ## Playgrounds
 
