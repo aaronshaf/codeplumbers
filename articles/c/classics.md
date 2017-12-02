@@ -10,4 +10,4 @@
 ## Talks
 
 * [Be Predictable, Not Correct](https://www.youtube.com/watch?v=h3KksH8gfcQ)
-  (YouTube)
+  (YouTube), by Pete Hunt
