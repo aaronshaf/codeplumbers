@@ -5,6 +5,7 @@
 * [Elm Town Podcast](http://elmtown.audio/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Functional Geekery](https://www.functionalgeekery.com/)
+* [Hanselminutes](https://www.hanselminutes.com/)
 * [Indie Hackers](https://www.indiehackers.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
 * [Modern Web](https://www.moderndotweb.com/modern-web-podcast)
