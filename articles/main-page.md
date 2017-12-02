@@ -13,7 +13,7 @@ Hello, world.
 ## Playgrounds
 
 [Codepen](https://codepen.io/) — [JSBin](https://jsbin.com/) —
-[Scrimba](https://scrimba.com/) - [CodeSandbox](https://codesandbox.io/)
+[Scrimba](https://scrimba.com/) — [CodeSandbox](https://codesandbox.io/)
 
 ## Testing
 
