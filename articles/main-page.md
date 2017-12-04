@@ -41,6 +41,6 @@ Hello, world.
 
 ## Other
 
-[Classics](classics) — [Podcasts](podcasts) — [Online books](online-books) —
-[Reference sites](reference-sites) — [UX](ux) — [Accessibility](a11y) —
-[Identity and access management](iam)
+[Classics](classics) — [Podcasts](podcasts) — [Online courses](online-courses) —
+[Online books](online-books) — [Reference sites](reference-sites) — [UX](ux) —
+[Accessibility](a11y) — [Identity and access management](iam)
