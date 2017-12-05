@@ -10,6 +10,7 @@
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
 * [Magic Read Along](http://www.magicreadalong.com/)
 * [Modern Web](https://www.moderndotweb.com/modern-web-podcast)
+* [ShopTalk](http://shoptalkshow.com/)
 * [Soft Skills Engineering](https://softskills.audio/)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
