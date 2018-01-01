@@ -13,7 +13,7 @@ Hello, world.
 ## Playgrounds
 
 [Glitch](https://glitch.com/) — [Codepen](https://codepen.io/) — [JS Bin](https://jsbin.com/) —
-[Scrimba](https://scrimba.com/) — [CodeSandbox](https://codesandbox.io/) - [Compiler Explorer](https://rust.godbolt.org/)
+[Scrimba](https://scrimba.com/) — [CodeSandbox](https://codesandbox.io/) — [Compiler Explorer](https://rust.godbolt.org/) — [repl.it](https://repl.it/)
 
 ## Testing
 
