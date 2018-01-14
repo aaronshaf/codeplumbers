@@ -1,4 +1,4 @@
-# Classics
+# Concepts and classics
 
 ## Papers and articles
 
