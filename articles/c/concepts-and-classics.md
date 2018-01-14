@@ -12,7 +12,8 @@
 * [Be Predictable, Not Correct](https://www.youtube.com/watch?v=h3KksH8gfcQ)
   (YouTube), by Pete Hunt
 
-## Other
+## Concepts and mental models
 
 * [Mental models](http://www.defmacro.org/2016/12/22/models.html), by Slava Akhmechet
 * [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good) (Wikipedia)
+* [Rule of least power](https://en.wikipedia.org/wiki/Rule_of_least_power) (Wikipedia)
