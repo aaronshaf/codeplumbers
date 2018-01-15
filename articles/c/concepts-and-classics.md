@@ -6,7 +6,7 @@
   (PDF), by Frederick P. Brooks, Jr.
 * [The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html),
   by Richard Gabriel (see [rebuttal](https://www.dreamsongs.com/Files/worse-is-worse.pdf))
-* [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) (PDF)
+* [How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) (PDF), by Richard I. Cook
 
 ## Talks
 
