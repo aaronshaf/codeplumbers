@@ -2,6 +2,10 @@
 
 Hello, world.
 
+## Learning paths
+
+[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) — [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
 ## Languages
 
 [Learn X in Y minutes](https://learnxinyminutes.com/) — [ReasonML](reasonml)
