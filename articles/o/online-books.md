@@ -1,3 +1,3 @@
-## Online books
+# Online books
 
 * [Exploring JS](http://exploringjs.com/)
