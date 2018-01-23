@@ -4,7 +4,7 @@ Hello, world.
 
 ## Learning paths
 
-[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) — [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) — [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) — [ossu/computer-science](https://github.com/ossu/computer-science)
 
 ## Languages
 
