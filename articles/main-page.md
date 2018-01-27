@@ -8,7 +8,7 @@ Hello, world.
 
 ## Languages
 
-[HTML: The Living Standard (Developer's Edition)](https://html.spec.whatwg.org/dev/) — [Learn X in Y minutes](https://learnxinyminutes.com/) — [ReasonML](reasonml)
+[HTML: The Living Standard](https://html.spec.whatwg.org/dev/) — [Learn X in Y minutes](https://learnxinyminutes.com/) — [ReasonML](reasonml)
 
 ## Source control
 
