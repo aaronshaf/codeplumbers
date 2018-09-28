@@ -13,4 +13,4 @@
 * [ShopTalk](http://shoptalkshow.com/)
 * [Soft Skills Engineering](https://softskills.audio/)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
-* [Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
+* [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/)
